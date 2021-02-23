@@ -1,8 +1,8 @@
 # War-Dice-Game
 
-Simple, war dice game
+### This is a aimple, war dice game
 
-Rules:
+###Rules:
 
 1. Every player will take turns in rolling the dice, they may choose to keep rolling or hold what they have accumulated;
 2. When the player chooses to hold, the accumulated points will be added to the total score and the turn will switch to the next player;
