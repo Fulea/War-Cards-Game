@@ -1,6 +1,6 @@
 # War-Dice-Game
 
-### This is a aimple, war dice game
+### This is a simple, war dice game
 
 Rules:
 
